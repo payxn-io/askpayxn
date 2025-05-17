@@ -6,7 +6,7 @@ A flexible Twitter bot powered by Base AgentKit and Pydantic AI that interacts w
 - AI Oracle Proxy: https://basescan.org/address/0x0A0f4321214BB6C7811dD8a71cF587bdaF03f0A0
 - Prompt: https://basescan.org/address/0xC20DeDbE8642b77EfDb4372915947c87b7a526bD
 
-## 🚀 The problem AskPayxn solves
+## 🔹 The problem AskPayxn solves
 Traditional KYC/AML processes in decentralized finance (DeFi) and peer-to-peer (P2P) payments often require users to share sensitive personal information, risking privacy breaches. Meanwhile, existing compliance solutions struggle to detect suspicious activity without exposing or compromising user data. This gap creates barriers to adoption and leaves platforms vulnerable to fraud, regulatory penalties, and loss of user trust.
 
 ## 🚀 To Do
