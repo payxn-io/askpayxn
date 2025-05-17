@@ -2,6 +2,11 @@
 
 A flexible Twitter bot powered by Base AgentKit and Pydantic AI that interacts with blockchain data. This bot can analyze on-chain transactions, respond to user queries, and automatically post real-time insights and alerts to Twitter.
 
+## 🚀 Deployed Base Mainnet Contracts
+- AI Oracle Proxy: https://basescan.org/address/0x0A0f4321214BB6C7811dD8a71cF587bdaF03f0A0
+- Prompt: https://basescan.org/address/0xC20DeDbE8642b77EfDb4372915947c87b7a526bD
+
+
 ## 🚀 Features
 
 - **Multiple Agent Examples**:
